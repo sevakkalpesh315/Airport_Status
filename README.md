@@ -1,6 +1,6 @@
 # Airport_Status
 Android Application to provide information of flights
-![alt tag](http://i.imgur.com/7k1gD5D.gif)
+![alt tag](http://i.imgur.com/7k1gD5D.gifv)
 
 https://play.google.com/store/apps/details?id=com.airportlive
 
